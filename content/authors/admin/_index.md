@@ -17,31 +17,31 @@ role: PhD candidate in Data Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: City University of Hong Kong
-    url: https://www.cityu.edu.hk/
+  - name: City University of Hong Kong
+    url: https://www.cityu.edu.hk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'luo.yan@my.cityu.edu.hk'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/YanLuoCityU
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yan-luo-618925169/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=W7lRGDQAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-9731-4983
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Yan-Luo-33
+  - icon: at-symbol
+    url: 'mailto:luo.yan@my.cityu.edu.hk'
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/YanLuoCityU
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yan-luo-618925169/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=W7lRGDQAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-9731-4983
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Yan-Luo-33
 
 interests:
-  - Machine learning
-  - Deep learning
-  - Social determinants
-  - Biomarkers
+  - Machine learning
+  - Deep learning
+  - Social determinants
+  - Biomarkers
 
 education:
   - area: PhD candidate in Data Science
