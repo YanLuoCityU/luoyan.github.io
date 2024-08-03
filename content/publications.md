@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Publications'
 date: 2024-08-03
 type: landing
 
