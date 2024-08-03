@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LUO Yan (罗颜/羅顏)
+title: LUO Yan
 
 # Full name (for SEO)
 first_name: Yan
@@ -48,14 +48,10 @@ education:
     institution: City University of Hong Kong
     date_start: 2022-09-01
     date_end: 2026-08-31
-    summary: |
-      Supervised by [Prof Qingpeng Zhang](https://datascience.hku.hk/people/qingpeng-zhang/).
   - area: MSc in Epidemiology and Health Statistics
     institution: Peking University
     date_start: 2020-09-01
     date_end: 2022-06-30
-    summary: |
-      Supervised by [Prof Beibei Xu](https://medic.bjmu.edu.cn/jyjx/szll/index.htm).
   - area: BM in Preventive Medicine
     institution: Peking University
     date_start: 2015-09-01
