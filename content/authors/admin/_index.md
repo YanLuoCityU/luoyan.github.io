@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LUO Yan
+title: Yan Luo
 
 # Full name (for SEO)
 first_name: Yan
@@ -120,4 +120,6 @@ awards:
 
 ## About Me
 
-Yan Luo received his BM and MS degrees in epidemiology and biostatistics from the School of Public Health, Peking University in 2020 and 2022, respectively. He is a PhD candidate at the School of Data Science, City University of Hong Kong. His research focuses on using machine learning approaches to identify social determinants and biological markers of diseases and aging, aiming to improve population health.
+I am a PhD candidate at the School of Data Science, City University of Hong Kong. I am currently supervised by [Prof Qingpeng Zhang](https://datascience.hku.hk/people/qingpeng-zhang/).
+
+Before coming to CityU, I received my Master's degree in Epidemiology and Biostatistics from Peking University in 2022 under the supervision of [Prof Beibei Xu](https://medic.bjmu.edu.cn/jyjx/szll/index.htm). I also got my Bachelor's degree in Medicine from PKU in 2020. I am interested in using machine learning approaches to identify social determinants and biological markers of diseases and aging.
