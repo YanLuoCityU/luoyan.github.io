@@ -53,13 +53,13 @@ education:
   - area: MSc in Epidemiology and Health Statistics
     institution: Peking University
     date_start: 2020-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-30
     summary: |
       Supervised by [Prof Beibei Xu](https://medic.bjmu.edu.cn/jyjx/szll/index.htm).
   - area: BM in Preventive Medicine
     institution: Peking University
     date_start: 2015-09-01
-    date_end: 2020-06-31
+    date_end: 2020-06-30
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
