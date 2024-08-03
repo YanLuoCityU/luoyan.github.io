@@ -13,7 +13,6 @@ sections:
   - block: collection
     content:
       username: admin
-    content:
       title: Publications
       filters:
         folders:
@@ -28,8 +27,8 @@ sections:
         exclude_past: false
       # Page order: descending (desc) or ascending (asc) date.
       order: desc 
-  design:
-    # Choose a view for the listings:
-    view: citation
-    columns: '2'
+    design:
+      # Choose a view for the listings:
+      view: citation
+      columns: '2'
 ---
