@@ -69,7 +69,7 @@ skills:
       - name: Data Science
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: custom/ai
       - name: R
         description: ''
         percent: 80
@@ -82,57 +82,46 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Basketball
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: custom/basketball
+      - name: Movie
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: custom/movie
 
 languages:
   - name: Chinese
     percent: 100
   - name: English
     percent: 75
+  - name: Japanese
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: IAFOR Scholarship
+    url: https://agen.iafor.org/iafor-grant-and-scholarship-recipients-agen2024/
+    date: '2024-03-21'
+    awarder: The International Academic Forum
+  - title: Award for Academic Excellents
+    date: '2020-09-01'
+    awarder: Peking University
+  - title: The Chugai Scholarship for Excellent Medical Students
+    date: '2019-09-01'
+    awarder: Peking University
+  - title: The Second Prize Scholarship for Excellent Medical Students (The Eisai [China] Pharmaceutical Scholarship)
+    date: '2018-09-01'
+    awarder: Peking University
+  - title: Award for Contribution in Student Organizations
+    date: '2018-09-01'
+    awarder: Peking University
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yan Luo received his BM and MS degrees in epidemiology and biostatistics from the School of Public Health, Peking University in 2020 and 2022, respectively. He is a PhD candidate at the School of Data Science, City University of Hong Kong. His research focuses on using machine learning approaches to identify social determinants and biological markers of diseases and aging, aiming to improve population health.
