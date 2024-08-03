@@ -11,7 +11,7 @@ abstract: 'Frailty has become a global health concern and is associated with soc
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date_start: '2024-03-27T11:35:00+09:00'
+date: '2024-03-27T11:35:00+09:00'
 date_end: '2024-03-27T12:00:00+09:00'
 all_day: false
 
