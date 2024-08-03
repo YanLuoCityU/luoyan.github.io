@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LUO Yan (羅顏)
+title: LUO Yan (罗颜/羅顏)
 
 # Full name (for SEO)
 first_name: Yan
@@ -46,53 +46,38 @@ interests:
 education:
   - area: PhD candidate in Data Science
     institution: City University of Hong Kong
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2026-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Supervised by [Prof Qingpeng Zhang](https://datascience.hku.hk/people/qingpeng-zhang/).
   - area: MSc in Epidemiology and Health Statistics
     institution: Peking University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-09-01
+    date_end: 2022-06-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Supervised by [Prof Beibei Xu](https://medic.bjmu.edu.cn/jyjx/szll/index.htm).
   - area: BM in Preventive Medicine
     institution: Peking University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2015-09-01
+    date_end: 2020-06-31
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: R
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 80
+        icon: devicon/r
+      - name: Python
+        description: ''
+        percent: 80
+        icon: devicon/python
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
