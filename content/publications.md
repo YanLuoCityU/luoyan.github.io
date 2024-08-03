@@ -10,26 +10,26 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: collection
     content:
       username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
     content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: false
+        tag: ''
+        category: ''
+        publication_type: ''
+        author: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc 
+  design:
+    # Choose a view for the listings:
+    view: citation
+    columns: '2'
 ---
