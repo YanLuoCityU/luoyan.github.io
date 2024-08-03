@@ -35,7 +35,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9731-4983
   - icon: academicons/researchgate
-    link: https://www.researchgate.net/profile/Yan-Luo-33
+    url: https://www.researchgate.net/profile/Yan-Luo-33
 
 interests:
   - Machine learning
