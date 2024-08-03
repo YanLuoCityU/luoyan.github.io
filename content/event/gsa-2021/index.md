@@ -16,7 +16,7 @@ date_end: '2021-11-13T19:30:00-04:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate:
 
 authors:
   - admin
