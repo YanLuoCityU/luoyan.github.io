@@ -28,14 +28,14 @@ sections:
         - The Chugai Scholarship for Excellent Medical Students, Peking University (2018-2019)
         - The Second Prize Scholarship for Excellent Medical Students (The Eisai [China] Pharmaceutical Scholarship), Peking University (2017-2018)
         - Award for Contribution in Student Organizations, Peking University (2017-2018, 2018-2019)
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
   - block: resume-skills
     content:
       title: Skills & Hobbies
       username: admin
     design:
       show_skill_percentage: false
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---

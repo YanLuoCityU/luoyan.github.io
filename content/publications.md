@@ -31,4 +31,18 @@ sections:
       # Choose a view for the listings:
       view: citation
       columns: '2'
+  - block: collection
+    id: conference
+    content:
+      title: Conferences
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
 ---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
