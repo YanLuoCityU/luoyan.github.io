@@ -10,14 +10,9 @@ cascade:
       show_breadcrumb: true
 
 sections:
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
