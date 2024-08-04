@@ -22,4 +22,6 @@ doi: 10.7189/jogh.12.11006
 links:
 - name: URL
   url: https://doi.org/10.7189%2Fjogh.12.11006
+featured: True
+summary: '2023 IF: 4.5; Public, Environmental & Occupational Health: Ranked 43/403.'
 ---

@@ -32,7 +32,6 @@ sections:
       view: citation
       columns: '2'
   - block: collection
-    id: conference
     content:
       title: Conferences
       filters:
@@ -41,4 +40,11 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: markdown
+    content:
+      title: Peer Review
+      text: |
+        - Archives of Gerontology and Geriatrics
+        - Heliyon
+        - Frontiers in Public Health
 ---
