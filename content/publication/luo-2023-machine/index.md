@@ -8,7 +8,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-08-04T05:32:32.674083Z'
 publication_types:
-- manuscript
+- article
 publication: '*SSRN*'
 doi: 10.2139/ssrn.4652504
 links:
