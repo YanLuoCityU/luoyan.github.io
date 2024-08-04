@@ -12,7 +12,7 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-08-04T05:32:32.617338Z'
 publication_types:
-- article-journal
+- presentation
 publication: '*Innovation in Aging*'
 doi: 10.1093/geroni/igab046.2319
 links:
