@@ -20,6 +20,13 @@ sections:
   #     is_education_first: false
   - block: markdown
     content:
+      title: Peer Review
+      text: |
+        - Archives of Gerontology and Geriatrics
+        - Heliyon
+        - Frontiers in Public Health
+  - block: markdown
+    content:
       title: Awards
       text: |
         - <a href="https://agen.iafor.org/iafor-grant-and-scholarship-recipients-agen2024/">**IAFOR Scholarship**</a>, The International Academic Forum (2024)
@@ -34,8 +41,8 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+  # - block: resume-languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---

@@ -31,20 +31,4 @@ sections:
       # Choose a view for the listings:
       view: citation
       columns: '2'
-  - block: collection
-    content:
-      title: Conferences
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 2
-  - block: markdown
-    content:
-      title: Peer Review
-      text: |
-        - Archives of Gerontology and Geriatrics
-        - Heliyon
-        - Frontiers in Public Health
 ---

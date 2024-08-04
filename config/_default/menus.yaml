@@ -10,6 +10,9 @@ main:
   - name: Publications
     url: publication/
     weight: 11
+  - name: Conferences
+    url: event/
+    weight: 12
   - name: Experience
     url: experience/
     weight: 20
