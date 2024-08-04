@@ -3,8 +3,8 @@ title: The beneficial impact of Internet use on the mental well-being among adul
   aged≥ 50 years in 23 countries
 authors:
 - admin
-- Qingpeng Zhang
 - Paul SF Yip
+- Qingpeng Zhang
 date: '2024-01-01'
 publishDate: '2024-08-04T05:32:32.685077Z'
 publication_types:

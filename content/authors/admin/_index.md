@@ -82,10 +82,10 @@ skills:
         description: ''
         percent: 100
         icon: custom/basketball
-      - name: Movie
+      - name: Music
         description: ''
         percent: 100
-        icon: custom/movie
+        icon: custom/music
 
 languages:
   - name: Chinese
