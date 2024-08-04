@@ -15,9 +15,9 @@ publishDate: '2024-08-04T05:32:32.652078Z'
 publication_types:
 - article-journal
 publication: '*Journal of cachexia, sarcopenia and muscle*'
-featured: True
 doi: 10.1002/jcsm.13197
 links:
 - name: URL
   url: http://dx.doi.org/10.1002/jcsm.13197
+featured: True
 ---
