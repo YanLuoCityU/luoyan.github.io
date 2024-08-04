@@ -11,9 +11,13 @@ authors:
 - Yonghua Hu
 - Beibei Xu
 date: '2023-01-01'
-publishDate: '2024-08-04T04:55:54.322489Z'
+publishDate: '2024-08-04T05:32:32.652078Z'
 publication_types:
 - article-journal
 publication: '*Journal of cachexia, sarcopenia and muscle*'
 featured: True
+doi: 10.1002/jcsm.13197
+links:
+- name: URL
+  url: http://dx.doi.org/10.1002/jcsm.13197
 ---

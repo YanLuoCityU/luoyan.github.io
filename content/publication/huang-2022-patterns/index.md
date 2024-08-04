@@ -14,8 +14,12 @@ authors:
 - Zi-Shuo Chen
 - ' others'
 date: '2022-01-01'
-publishDate: '2024-08-04T04:55:54.283564Z'
+publishDate: '2024-08-04T05:32:32.610331Z'
 publication_types:
 - article-journal
 publication: '*Journal of affective disorders*'
+doi: 10.1016/j.jad.2022.01.030
+links:
+- name: URL
+  url: https://doi.org/10.1016%2Fj.jad.2022.01.030
 ---

@@ -13,8 +13,12 @@ authors:
 - Yong-Hua Hu
 - Beibei Xu
 date: '2024-01-01'
-publishDate: '2024-08-04T04:55:54.338887Z'
+publishDate: '2024-08-04T05:32:32.669078Z'
 publication_types:
 - article-journal
 publication: '*Journal of Affective Disorders*'
+doi: 10.1016/j.jad.2023.11.014
+links:
+- name: URL
+  url: https://doi.org/10.1016%2Fj.jad.2023.11.014
 ---

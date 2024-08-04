@@ -9,8 +9,12 @@ authors:
 - Yan Luo
 - Beibei Xu
 date: '2022-01-01'
-publishDate: '2024-08-04T04:55:54.327891Z'
+publishDate: '2024-08-04T05:32:32.657078Z'
 publication_types:
 - article-journal
 publication: '*Interdisciplinary Nursing Research*'
+doi: 10.1097/nr9.0000000000000002
+links:
+- name: URL
+  url: http://dx.doi.org/10.1097/nr9.0000000000000002
 ---

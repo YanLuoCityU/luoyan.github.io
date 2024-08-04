@@ -6,8 +6,12 @@ authors:
 - Mengzhuo Guo
 - Qingpeng Zhang
 date: '2023-01-01'
-publishDate: '2024-08-04T04:55:54.343969Z'
+publishDate: '2024-08-04T05:32:32.674083Z'
 publication_types:
 - manuscript
 publication: '*SSRN*'
+doi: 10.2139/ssrn.4652504
+links:
+- name: URL
+  url: http://dx.doi.org/10.2139/ssrn.4652504
 ---

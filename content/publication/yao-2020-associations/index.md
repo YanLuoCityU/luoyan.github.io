@@ -14,8 +14,12 @@ authors:
 - Yonghua Hu
 - ' others'
 date: '2020-01-01'
-publishDate: '2024-08-04T04:55:54.306489Z'
+publishDate: '2024-08-04T05:32:32.635341Z'
 publication_types:
 - article-journal
 publication: '*International journal of environmental research and public health*'
+doi: 10.3390/ijerph17124546
+links:
+- name: URL
+  url: https://doi.org/10.3390%2Fijerph17124546
 ---

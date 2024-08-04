@@ -10,8 +10,12 @@ authors:
 - Hui Liu
 - Beibei Xu
 date: '2021-01-01'
-publishDate: '2024-08-04T04:55:54.289568Z'
+publishDate: '2024-08-04T05:32:32.617338Z'
 publication_types:
 - article-journal
 publication: '*Innovation in Aging*'
+doi: 10.1093/geroni/igab046.2319
+links:
+- name: URL
+  url: https://doi.org/10.1093%2Fgeroni%2Figab046.2319
 ---

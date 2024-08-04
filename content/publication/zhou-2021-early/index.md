@@ -14,8 +14,12 @@ authors:
 - Wenjuan Wu
 - ' others'
 date: '2021-01-01'
-publishDate: '2024-08-04T04:55:54.300497Z'
+publishDate: '2024-08-04T05:32:32.628330Z'
 publication_types:
 - article-journal
 publication: '*Journal of Thoracic Disease*'
+doi: 10.21037/jtd-20-2568
+links:
+- name: URL
+  url: https://doi.org/10.21037%2Fjtd-20-2568
 ---
