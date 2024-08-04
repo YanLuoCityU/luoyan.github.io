@@ -8,7 +8,7 @@ authors:
 - Kaipeng Wang
 - Gui-Ying Cao
 - Nan Li
-- Yan Luo
+- admin
 - Yu-Ming Chen
 - He-Xuan Su
 - Zi-Shuo Chen

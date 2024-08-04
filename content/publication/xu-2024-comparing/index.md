@@ -4,7 +4,7 @@ title: Comparing a new multimorbidity index with other multimorbidity measures f
 authors:
 - Hui-Wen Xu
 - Hui Liu
-- Yan Luo
+- admin
 - Kaipeng Wang
 - My Ngoc To
 - Yu-Ming Chen

@@ -3,7 +3,7 @@ title: Comparisons of Different Multimorbidity Measures to Predict Physical Func
   Among Middle-Aged and Older Chinese
 authors:
 - Hui-wen Xu
-- Yan Luo
+- admin
 - Zi-Ting Huang
 - zi-shuo Chen
 - He-Xuan Su

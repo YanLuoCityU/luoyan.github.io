@@ -4,7 +4,7 @@ title: 'Social Determinants of Intrinsic Capacity: A Systematic Review of Observ
 authors:
 - Zi-Ting Huang
 - Eric TC Lai
-- Yan Luo
+- admin
 - Jean Woo
 date: '2024-01-01'
 publishDate: '2024-08-04T05:32:32.680078Z'

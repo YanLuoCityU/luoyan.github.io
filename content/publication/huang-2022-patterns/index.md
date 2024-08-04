@@ -3,7 +3,7 @@ title: Patterns of cardiometabolic multimorbidity and the risk of depressive sym
   in a longitudinal cohort of middle-aged and older Chinese
 authors:
 - Zi-Ting Huang
-- Yan Luo
+- admin
 - Ling Han
 - Kaipeng Wang
 - Shan-Shan Yao

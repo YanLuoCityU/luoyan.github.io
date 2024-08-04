@@ -9,7 +9,7 @@ authors:
 - Shusheng Li
 - Hong Liu
 - Ziting Huang
-- Yan Luo
+- admin
 - Ming Hu
 - Wenjuan Wu
 - ' others'

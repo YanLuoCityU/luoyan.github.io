@@ -2,7 +2,7 @@
 title: Development and validation of multimorbidity index predicting mortality among
   Chinese older adults
 authors:
-- Yan Luo
+- admin
 - Zi-Ting Huang
 - Hui-wen Xu
 - zi-shuo Chen

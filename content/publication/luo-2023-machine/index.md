@@ -2,7 +2,7 @@
 title: Machine Learning Approaches to Identify Social Determinants of Frailty Among
   Middle-Aged and Older Adults in the USA, England, and China
 authors:
-- Yan Luo
+- admin
 - Mengzhuo Guo
 - Qingpeng Zhang
 date: '2023-01-01'

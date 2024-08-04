@@ -8,7 +8,7 @@ authors:
 - Kaipeng Wang
 - Zi-Ting Huang
 - He-Xuan Su
-- Yan Luo
+- admin
 - Carson M De Fries
 - Yong-Hua Hu
 - Beibei Xu
