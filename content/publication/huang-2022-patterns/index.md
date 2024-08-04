@@ -13,8 +13,8 @@ authors:
 - Carson M De Fries
 - Zi-Shuo Chen
 - ' others'
-date: '2022-01-01'
-publishDate: '2024-08-04T05:32:32.610331Z'
+date: '2022-03-01'
+publishDate: '2024-08-04T14:46:29.450158Z'
 publication_types:
 - article-journal
 publication: '*Journal of affective disorders*'

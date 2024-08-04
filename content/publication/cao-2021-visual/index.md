@@ -12,8 +12,8 @@ authors:
 - admin
 - Yonghua Hu
 - Beibei Xu
-date: '2021-01-01'
-publishDate: '2024-08-04T05:32:32.663078Z'
+date: '2021-06-01'
+publishDate: '2024-08-04T14:46:29.501151Z'
 publication_types:
 - article-journal
 publication: '*Journal of the American Geriatrics Society*'

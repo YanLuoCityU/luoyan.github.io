@@ -8,8 +8,8 @@ authors:
 - Kaipeng Wang
 - admin
 - Beibei Xu
-date: '2022-01-01'
-publishDate: '2024-08-04T05:32:32.657078Z'
+date: '2022-11-01'
+publishDate: '2024-08-04T14:46:29.495587Z'
 publication_types:
 - article-journal
 publication: '*Interdisciplinary Nursing Research*'

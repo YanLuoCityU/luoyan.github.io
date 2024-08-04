@@ -9,10 +9,10 @@ authors:
 - He-Xuan Su
 - Hui Liu
 - Beibei Xu
-date: '2021-01-01'
-publishDate: '2024-08-04T05:32:32.617338Z'
+date: '2021-12-01'
+publishDate: '2024-08-04T14:46:29.456157Z'
 publication_types:
-- presentation
+- article-journal
 publication: '*Innovation in Aging*'
 doi: 10.1093/geroni/igab046.2319
 links:

@@ -13,8 +13,8 @@ authors:
 - admin
 - Yonghua Hu
 - ' others'
-date: '2020-01-01'
-publishDate: '2024-08-04T05:32:32.635341Z'
+date: '2020-06-01'
+publishDate: '2024-08-04T14:46:29.472590Z'
 publication_types:
 - article-journal
 publication: '*International journal of environmental research and public health*'

@@ -12,8 +12,8 @@ authors:
 - Zhou Yang
 - Yong-Hua Hu
 - Beibei Xu
-date: '2024-01-01'
-publishDate: '2024-08-04T05:32:32.669078Z'
+date: '2024-11-01'
+publishDate: '2024-08-04T14:46:29.508148Z'
 publication_types:
 - article-journal
 publication: '*Journal of Affective Disorders*'

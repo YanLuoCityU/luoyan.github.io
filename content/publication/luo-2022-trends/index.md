@@ -13,8 +13,8 @@ authors:
 - Guiying Cao
 - Hexuan Su
 - ' others'
-date: '2022-01-01'
-publishDate: '2024-08-04T05:32:32.604438Z'
+date: '2022-07-01'
+publishDate: '2024-08-04T14:46:29.444158Z'
 publication_types:
 - article-journal
 publication: '*Journal of Global Health*'

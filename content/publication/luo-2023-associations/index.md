@@ -10,8 +10,8 @@ authors:
 - Zhou Yang
 - Yonghua Hu
 - Beibei Xu
-date: '2023-01-01'
-publishDate: '2024-08-04T05:32:32.652078Z'
+date: '2023-02-01'
+publishDate: '2024-08-04T14:46:29.489588Z'
 publication_types:
 - article-journal
 publication: '*Journal of cachexia, sarcopenia and muscle*'

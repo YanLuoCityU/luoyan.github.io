@@ -13,8 +13,8 @@ authors:
 - Ming Hu
 - Wenjuan Wu
 - ' others'
-date: '2021-01-01'
-publishDate: '2024-08-04T05:32:32.628330Z'
+date: '2021-03-01'
+publishDate: '2024-08-04T14:46:29.467606Z'
 publication_types:
 - article-journal
 publication: '*Journal of Thoracic Disease*'

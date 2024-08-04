@@ -8,10 +8,10 @@ authors:
 - zi-shuo Chen
 - He-Xuan Su
 - Beibei Xu
-date: '2021-01-01'
-publishDate: '2024-08-04T05:32:32.641078Z'
+date: '2021-12-01'
+publishDate: '2024-08-04T14:46:29.478629Z'
 publication_types:
-- presentation
+- article-journal
 publication: '*Innovation in Aging*'
 doi: 10.1093/geroni/igab046.2077
 links:

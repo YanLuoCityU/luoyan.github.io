@@ -5,10 +5,10 @@ authors:
 - admin
 - Mengzhuo Guo
 - Qingpeng Zhang
-date: '2023-01-01'
-publishDate: '2024-08-04T05:32:32.674083Z'
+date: '2023-12-01'
+publishDate: '2024-08-04T14:46:29.515147Z'
 publication_types:
-- article
+- manuscript
 publication: '*SSRN*'
 doi: 10.2139/ssrn.4652504
 links:
