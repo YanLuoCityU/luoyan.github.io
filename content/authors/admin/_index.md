@@ -94,28 +94,6 @@ languages:
     percent: 75
   - name: Japanese
     percent: 60
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: IAFOR Scholarship
-    url: https://agen.iafor.org/iafor-grant-and-scholarship-recipients-agen2024/
-    date: '2024-03-21'
-    awarder: The International Academic Forum
-  - title: Award for Academic Excellents
-    date: '2020-09-01'
-    awarder: Peking University
-  - title: The Chugai Scholarship for Excellent Medical Students
-    date: '2019-09-01'
-    awarder: Peking University
-  - title: The Second Prize Scholarship for Excellent Medical Students (The Eisai [China] Pharmaceutical Scholarship)
-    date: '2018-09-01'
-    awarder: Peking University
-  - title: Award for Contribution in Student Organizations
-    date: '2018-09-01'
-    awarder: Peking University
 ---
 
 ## About Me
