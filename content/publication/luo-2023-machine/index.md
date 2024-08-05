@@ -15,5 +15,5 @@ links:
 - name: URL
   url: http://dx.doi.org/10.2139/ssrn.4652504
 featured: True
-# summary:
+summary: 'Preprint.'
 ---

@@ -22,5 +22,4 @@ links:
 featured: True
 summary: |
   2023 IF: 4.1; Geriatrics & Gerontology: Ranked 22/74.
-  My first published paper.
 ---
