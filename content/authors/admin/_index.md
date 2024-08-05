@@ -28,14 +28,19 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/YanLuoCityU
+    label: Github
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yan-luo-618925169/
+    label: LinkedIn
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=W7lRGDQAAAAJ&hl=en
+    label: Google scholar
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9731-4983
+    label: ORCID
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Yan-Luo-33
+    label: ResearchGate
 
 interests:
   - Machine learning
