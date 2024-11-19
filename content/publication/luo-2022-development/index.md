@@ -21,5 +21,5 @@ links:
   url: https://doi.org/10.3389%2Ffnagi.2022.767240
 featured: True
 summary: |
-  2023 IF: 4.1; Geriatrics & Gerontology: Ranked 22/74.
+  *Frontiers in Aging Neuroscience*; 2023 IF: 4.1; Geriatrics & Gerontology: Ranked 22/74.
 ---
