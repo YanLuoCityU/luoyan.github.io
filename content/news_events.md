@@ -1,6 +1,6 @@
 ---
 # To design the details of this section
-title: 'News & Events'
+title: ""
 date: 2024-08-03
 type: landing
 
