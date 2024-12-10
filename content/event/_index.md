@@ -1,5 +1,5 @@
 ---
-title: News & Events # Change section title
+title: Events # Change section title
 cms_exclude: true
 #url: talk
 
