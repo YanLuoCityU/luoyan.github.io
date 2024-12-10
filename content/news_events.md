@@ -20,7 +20,7 @@ sections:
           - news
     design:
       view: article-grid
-      fill_image: false
+      # fill_image: false
       columns: 3
   - block: collection
     id: event
