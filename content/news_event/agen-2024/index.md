@@ -1,6 +1,8 @@
 ---
 title: Machine learning approaches to identify social determinants of frailty among middle-aged and older adults in the USA, England, and China
 
+category: ['Events']
+
 event: The 10th Asian Conference on Gerontology and Aging (AGen2024)
 event_url: https://agen.iafor.org/agen2024/
 

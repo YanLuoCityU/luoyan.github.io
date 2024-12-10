@@ -1,5 +1,5 @@
 ---
-title: Events # Change section title
+title: "" # Change section title
 cms_exclude: true
 #url: talk
 

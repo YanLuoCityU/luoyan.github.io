@@ -11,25 +11,12 @@ design:
 
 # Page sections
 sections:
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: News
-  #     filters:
-  #       folders:
-  #         - news_event
-  #   design:
-  #     view: article-grid
-  #     # fill_image: false
-  #     columns: 3
   - block: collection
-    id: event
     content:
-      title: Events
       filters:
         folders:
           - news_event
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 ---

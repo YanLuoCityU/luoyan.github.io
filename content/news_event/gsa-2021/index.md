@@ -1,6 +1,8 @@
 ---
 title: Development and validation of multimorbidity index predicting mortality among Chinese older adults
 
+category: ['Events']
+
 event: The Gerontological Society of America (GSA) 2021 Annual Scientific Meeting
 event_url: https://community.geosociety.org/gsa2021/home
 
