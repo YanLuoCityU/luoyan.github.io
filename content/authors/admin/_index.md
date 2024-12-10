@@ -46,7 +46,7 @@ interests:
   - Machine learning
   - Deep learning
   - Social determinants
-  - Biomarkers
+  - Multiomics
 
 education:
   - area: PhD candidate in Data Science

@@ -1,5 +1,5 @@
 ---
-title: Conferences
+title: News & Events # Change section title
 cms_exclude: true
 #url: talk
 

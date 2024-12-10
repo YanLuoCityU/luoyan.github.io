@@ -1,4 +1,5 @@
 ---
+# To design the details of this section
 title: 'News & Events'
 date: 2024-08-03
 type: landing
@@ -11,8 +12,20 @@ design:
 # Page sections
 sections:
   - block: collection
+    id: news
     content:
-      title: News & Events
+      title: News
+      filters:
+        folders:
+          - news
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+  - block: collection
+    id: events
+    content:
+      title: Events
       filters:
         folders:
           - event
