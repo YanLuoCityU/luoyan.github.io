@@ -12,7 +12,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Conferences
+      title: News & Events
       filters:
         folders:
           - event
