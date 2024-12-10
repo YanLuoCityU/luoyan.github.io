@@ -16,6 +16,7 @@ sections:
       filters:
         folders:
           - news_event
+        category: ''
     design:
       view: article-grid
       columns: 3

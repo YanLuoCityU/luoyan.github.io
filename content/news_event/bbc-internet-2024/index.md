@@ -6,6 +6,4 @@ category: ['News']
 summary: BBC Science Focus.
 ---
 
-<!-- BBC Science Focus. -->
-
 <!--more-->
