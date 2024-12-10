@@ -1,6 +1,6 @@
 ---
 # To design the details of this section
-title: ""
+title: News & Events
 date: 2024-08-03
 type: landing
 
@@ -23,7 +23,7 @@ sections:
       fill_image: false
       columns: 3
   - block: collection
-    id: events
+    id: event
     content:
       title: Events
       filters:

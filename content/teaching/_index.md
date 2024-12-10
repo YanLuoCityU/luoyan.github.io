@@ -13,7 +13,6 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: Teaching
       text: |
         I have worked as a **Teaching Assistant** in the following courses at the City University of Hong Kong:
         
