@@ -14,7 +14,7 @@ sections:
   - block: collection
     content:
       username: admin
-      title: Publications
+      # title: Publications
       filters:
         folders:
           - publication
