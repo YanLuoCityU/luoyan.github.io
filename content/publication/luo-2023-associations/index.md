@@ -20,5 +20,5 @@ links:
 - name: URL
   url: http://dx.doi.org/10.1002/jcsm.13197
 featured: True
-summary: 'Journal of Cachexia, Sarcopenia and Muscle. 2023 IF: 9.4; Geriatrics & Gerontology: Ranked 4/74.'
+summary: 'Journal of Cachexia, Sarcopenia and Muscle. 2023 IF: 9.4; GERIATRICS & GERONTOLOGY: Ranked 4/74.'
 ---

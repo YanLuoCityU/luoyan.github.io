@@ -15,5 +15,5 @@ links:
 - name: URL
   url: https://doi.org/10.1038/s41562-024-02048-7
 featured: True
-summary: 'Nature Human Behaviour. 2023 IF: 22.3; Neurosciences: Ranked 2/310, Multidisciplinary Sciences: Ranked 5/134.'
+summary: 'Nature Human Behaviour. 2023 IF: 22.3; NEUROSCIENCES: Ranked 2/310, MULTIDISCIPLINARY SCIENCES: Ranked 5/134.'
 ---

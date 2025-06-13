@@ -26,6 +26,7 @@ sections:
         - Archives of Gerontology and Geriatrics
         - Heliyon
         - Frontiers in Public Health
+        - Innovation in Aging
   - block: markdown
     content:
       title: Awards
