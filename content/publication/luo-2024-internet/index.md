@@ -2,7 +2,7 @@
 title: Positive association between Internet use and mental health among adults aged
   ≥50 years in 23 countries
 authors:
-- Yan Luo
+- admin
 - Paul Siu Fai Yip
 - Qingpeng Zhang
 date: '2024-11-18'
